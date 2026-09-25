@@ -2,7 +2,7 @@
 
 Cybersecurity student (BSc, University of Mines and Technology, Tarkwa, Ghana) focused on **penetration testing and GRC**. I build a target, attack it, and write up everything that happened, including the attempts that failed.
 
-[LinkedIn](https://www.linkedin.com/in/appiah-schneider-agyare-7159821b1/)
+[LinkedIn](https://www.linkedin.com/in/appiah-schneider-agyare-7159821b1/)  |  Accra, Ghana
 
 **2023 National Cybersecurity Challenge (Cyber Security Authority, Ghana):** 1st place Regional round, 1st place Zonal round, 2nd place National Finals.
 
