@@ -10,6 +10,8 @@ Cybersecurity student (BSc, University of Mines and Technology, Tarkwa, Ghana) f
 
 | If you want to see... | Look at |
 |---|---|
+| A firewall built and attacked from both sides | [cy377-perimeter-security-lab](https://github.com/Schneider-hr/cy377-perimeter-security-lab): an OPNsense firewall built from scratch in VirtualBox, mapped with nmap from the WAN (zero open ports) and the LAN (3 open services) |
+| Internship security assessments | [cyberminds-internship](https://github.com/Schneider-hr/cyberminds-internship): an asset/risk assessment of my own laptop, Wireshark threat hunting (found contact with malicious infrastructure), and a DVWA brute-force test with Burp Suite |
 | A multi-stage penetration test, dead ends included | [cy270-home-lab-pentest](https://github.com/Schneider-hr/cy270-home-lab-pentest): I built a Kerberos/LDAP/DNS lab, then attacked it from recon to session hijacking |
 | Governance and incident response work | [metasploitable2-security-assessment](https://github.com/Schneider-hr/metasploitable2-security-assessment): my part of a team internship assessment (recon, security policies, a NIST SP 800-61 playbook) |
 | Digital forensics | [digital-forensics-investigations](https://github.com/Schneider-hr/digital-forensics-investigations): FTK Imager and Autopsy investigation of a simulated ransomware incident |
